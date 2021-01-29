@@ -4,7 +4,7 @@ AppleScripts to automate setting a status/away and clearing it.
 These scripts require this AppleScript Slack library to run: https://github.com/samknight/slack_applescript
 
 To use:
-1. Download the "Focus.app" and "Resume.app" files to your computer.
+1. Download the "Focus.app.zip" and "Resume.app.zip" files to your computer.
 2. Open each app using the "Script Editor" application on your Mac.
 3. Edit the status message/icon you'd like to use for when you're having "focus time".
 4. Add/Remove the main blocks of code to reflect which Slack workspaces you'd like to update, as well as the keystroke number for that workspace (in Slack, pressing Command+1 navigates to your first workspace, Command+2 to the second, etc.)
